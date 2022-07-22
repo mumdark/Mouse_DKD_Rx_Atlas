@@ -1,3 +1,4 @@
+#####active
 run_cellchat<-function(group, n_core, signal_type){
 library(CellChat)
 print(paste("Group:", group, ";", "n_core:", n_core, ";", "Signal_type:",signal_type))
